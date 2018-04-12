@@ -1,0 +1,100 @@
+HTML (W3schools)
+
+"Hyper Text Markup Language"
+- web pages					
+
+links-<a>					
+images-<img>
+
+"href" attribute(links)
+<a href = " ">
+
+"src" attribute(images)
+<img src= " ">
+
+width and height attribute(images)
+<img src = " " width = " " height = " ">
+
+---EXAMPLE DOC---
+<!DOCTYPE html> 		document type(definition)
+<html>				root element
+<head>				
+<title>Page Title</title>	large heading		
+</head>				
+<body>				end tag
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>
+
+---Style---
+<body style="background-color:powderblue;">		 background color	
+<h1 style="color:blue;">This is a heading</h1>		 text color
+<h1 style="font-family:verdana;">This is a heading</h1>	 font
+<h1 style="font-size:300%;">This is a heading</h1>	 font size
+<h1 style="text-align:center;">Centered Heading</h1>	 horizontal text alignment
+
+---Formatting---
+<b> - Bold text
+<strong> - Important text
+<i> - Italic text
+<em> - Emphasized text
+<mark> - Marked text
+<small> - Small text
+<del> - Deleted text
+<ins> - Inserted text
+<sub> - Subscript text
+<sup> - Superscript text
+
+---Quotations---
+<q> - for short quotations
+<blockquote> - section quoted from another source
+<abbr> - abbrebiation/acronym
+<address> - contact information
+<cite> - title of a work
+<bdo>	Defines the text direction
+
+---Comments---
+<!-- Write your comments here --> (syntax)
+
+---Color---
+<h1 style="border:2px solid Tomato;">Hello World</h1>		border color
+<h1 style="background-color:rgb(255, 99, 71);">...</h1> 	(red, green, blue)
+<h1 style="background-color:#ff6347;">...</h1>			
+<h1 style="background-color:hsl(9, 100%, 64%);">...</h1>	(hue, saturation, lightness)
+<h1 style="background-color:rgba(255, 99, 71, 0.5);">...</h1>	(red, green,blue, alpha/transparancy)
+<h1 style="background-color:hsla(9, 100%, 64%, 0.5);">...</h1>	(hue, saturation, lightness, alpha/transparancy)
+
+---CSS--- (Cascading Style Sheets)
+Use the HTML style attribute for inline styling
+Use the HTML <style> element to define internal CSS
+Use the HTML <link> element to refer to an external CSS file
+Use the HTML <head> element to store <style> and <link> elements
+Use the CSS color property for text colors
+Use the CSS font-family property for text fonts
+Use the CSS font-size property for text sizes
+Use the CSS border property for borders
+Use the CSS padding property for space inside the border
+Use the CSS margin property for space outside the border
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
